@@ -20,6 +20,14 @@ This is a simple voice recorder program, written in `Python` by `@qxresearch org
 * Python
 * Python Libraries: `sounddevice` `scipy`
 
+### Contributing
+
+Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating a issue for this projects use `Voice Recorder` Label.
+
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
+2. Commit your Changes
+3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+
 ### Become Official Member @qxresearch
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
