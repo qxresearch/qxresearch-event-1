@@ -22,7 +22,7 @@ This is a simple voice recorder program, written in `Python` by `@qxresearch org
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating a issue for this projects use `Voice Recorder` Label.
+Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this projects) use `Voice Recorder` Label.
 
 1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
 2. Commit your Changes
