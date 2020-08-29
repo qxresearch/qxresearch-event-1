@@ -30,7 +30,7 @@ What the program does?
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this project) use `Voice Recorder` Label.
+Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this project) use `Voice-Recorder` Label.
 
 1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
 2. Commit your Changes
