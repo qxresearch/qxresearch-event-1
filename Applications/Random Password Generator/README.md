@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="700px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/pp.jpg" alt="Logo">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/complex.gif" alt="Logo">
   </a>
 
   <h3 align="center">Random-Password-Generator</h3>
