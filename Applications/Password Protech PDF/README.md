@@ -28,7 +28,7 @@ What the program does?
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welcome. While creating an issue(for this project) use `Password Protect PDF` Label.
+Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welcome. While creating an issue(for this project) use `Password-Protect-PDF` Label.
 
 1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
 2. Commit your Changes
