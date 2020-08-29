@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/vo.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/vo1.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Voice-Recorder</h3>
