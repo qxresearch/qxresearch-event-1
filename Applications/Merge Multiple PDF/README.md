@@ -28,7 +28,7 @@ What the program does?
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome. While creating an issue(for this project) use `Merge Multiple PDF` Label.
+Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome. While creating an issue(for this project) use `Merge-Multiple-PDF` Label.
 
 1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
 2. Commit your Changes
