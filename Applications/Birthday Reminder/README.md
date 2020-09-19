@@ -19,7 +19,7 @@ What the program does?
 
 - User will select birthday
 - User will select time of the reminder
-- In that day | time program will wish her/him a happy birthda ❤️
+- In that day | time program will wish her/him a happy birthday ❤️
 ``` 
 ### Requirements
 
