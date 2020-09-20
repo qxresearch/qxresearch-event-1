@@ -43,7 +43,7 @@ Any kind of contributions to `qxresearch-event-1/terminal-tricks` are welcome. W
 
 ### Video Tutorial
 
-* **YouTube : **[Terminal Tricks](https://youtu.be/sykK0IVAb84)
+* **YouTube : ** [Terminal Tricks](https://youtu.be/sykK0IVAb84)
 
 ### Become Official Member @qxresearch
 
