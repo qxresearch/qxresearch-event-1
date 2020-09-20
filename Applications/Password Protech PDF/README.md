@@ -34,6 +34,11 @@ Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welco
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
+
+### Video Tutorial
+
+* YouTube : [Password Protect PDF](https://youtu.be/Cxi3R3A7yMQ)
+
 ### Become Official Member @qxresearch
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
