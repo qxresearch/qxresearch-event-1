@@ -50,7 +50,7 @@ Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://youtu.be/Tp1nz2hzsiY">View Demo</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
