@@ -37,7 +37,7 @@ Any kind of contributions to `qxresearch-event-1/audio-visualization-tool` are w
 
 ### Video Tutorial
 
-* YouTube : [Audio Visualization Tool](https://youtu.be/0_wde7Db48E)
+* **YouTube :** [Audio Visualization Tool](https://youtu.be/0_wde7Db48E)
 
 ### Become Official Member @qxresearch
 
