@@ -61,7 +61,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 ### Video Tutorial
 
-* YouTube : [Password Protect PDF](https://community.mozilla.org/en/groups/qx-research)
+* **YouTube :** [Password Protect PDF](https://www.youtube.com/watch?v=Cxi3R3A7yMQ)
 
 ### Become Official Member
 
