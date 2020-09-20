@@ -34,6 +34,10 @@ Any kind of contributions to `qxresearch-event-1/extract-mp3-from-mp4` are welco
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
+### Video Tutorial
+
+* YouTube : [Extract mp3 from mp4](https://youtu.be/Wu4hR_pRn6k)
+
 ### Become Official Member @qxresearch
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
@@ -46,7 +50,7 @@ Any kind of contributions to `qxresearch-event-1/extract-mp3-from-mp4` are welco
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://youtu.be/Wu4hR_pRn6k">View Demo</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
