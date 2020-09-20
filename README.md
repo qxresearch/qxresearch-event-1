@@ -59,9 +59,13 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 * Python >= 3.1
 * Python Libraries: `win10toast` `tkinter` `random` `PyPDF2` `pyaudio` `pyfiglet` `colorama` `pyshorteners` `moviepy` `sounddevice` `scipy`
 
+### Video Tutorial
+
+* YouTube : [Password Protect PDF](https://community.mozilla.org/en/groups/qx-research)
+
 ### Become Official Member
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research)
+* Join Mozilla Group [@qxresearch](https://www.youtube.com/watch?v=Cxi3R3A7yMQ)
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
 
