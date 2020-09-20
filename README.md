@@ -61,7 +61,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 ### Video Tutorial
 
-* **YouTube :** [Password Protect PDF](https://www.youtube.com/watch?v=Cxi3R3A7yMQ)
+* **YouTube Playlist :** [10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
 
 ### Become Official Member
 
