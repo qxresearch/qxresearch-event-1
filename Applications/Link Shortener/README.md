@@ -34,6 +34,10 @@ Any kind of contributions to `qxresearch-event-1/link-shortener` are welcome. Wh
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
+### Video Tutorial
+
+* **YouTube : ** [Link Shortener](https://youtu.be/JOx_c7ehwKI)
+
 ### Become Official Member @qxresearch
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
@@ -46,7 +50,7 @@ Any kind of contributions to `qxresearch-event-1/link-shortener` are welcome. Wh
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://youtu.be/JOx_c7ehwKI">View Demo</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
