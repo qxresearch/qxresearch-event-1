@@ -37,7 +37,7 @@ Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welco
 
 ### Video Tutorial
 
-* YouTube : [Password Protect PDF](https://youtu.be/Cxi3R3A7yMQ)
+* **YouTube :** [**Password Protect PDF**](https://youtu.be/Cxi3R3A7yMQ)
 
 ### Become Official Member @qxresearch
 
