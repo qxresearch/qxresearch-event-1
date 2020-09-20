@@ -74,7 +74,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
     <br>
     <br/>
     <br />
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">Watch On Demand</a>
+    <a href="https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM">Watch On Demand</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
