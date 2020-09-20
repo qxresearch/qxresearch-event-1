@@ -34,6 +34,10 @@ Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
+### Video Tutorial
+
+* **YouTube :** [Merge Multiple PDF](https://youtu.be/Tp1nz2hzsiY)
+
 ### Become Official Member @qxresearch
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
