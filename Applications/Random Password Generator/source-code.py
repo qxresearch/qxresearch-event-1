@@ -1,6 +1,7 @@
 import random
 from tkinter import *
 import string
+from tkinter.font import Font
 
 def generate_password():
   password=[]
@@ -17,7 +18,8 @@ def generate_password():
 root=Tk()
 root.geometry("250x200")
 btn=Button(root,text="Generate Password",command=generate_password)
-btn.grid(row=2,column=2)
-lbl=Label(root,font=("times",15,"bold"))
-lbl.grid(row=4,column=2)
+btn.place(relx=0.5, rely=0.2, anchor=N)
+myFont = Font(family="Times New Roman", size=12)
+lbl=Label(root,font=myFont)
+lbl.place(relx=0.5, rely=0.5, anchor=CENTER)
 root.mainloop()
