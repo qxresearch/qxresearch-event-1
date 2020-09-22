@@ -1,4 +1,3 @@
- <br />
 <p align="center">
   <a href="https://community.mozilla.org/en/groups/qx-research">
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="240" height="240">
@@ -79,6 +78,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
-  </p>
+  
 </p>
 
