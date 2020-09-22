@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://community.mozilla.org/en/groups/qx-research">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="180" height="180">
+    <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2/master/source/qxr/cir.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">qxresearch-event-1</h3>
