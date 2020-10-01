@@ -25,8 +25,10 @@ What the program does?
  
 ### Requirements
 
-* Python
+* Python[higher than python2]
 * Python Libraries: `sounddevice` `scipy`
+* Put your required `file-path` in `write`
+* provide your required `time` in `second` for record during the compilation
 
 ### Contributing
 
