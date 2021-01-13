@@ -8,4 +8,3 @@ passw=getpass.getpass(prompt='Enter Password: ')
 pdfwriter.encrypt(passw)
 with open('ho.pdf','wb') as f:
   pdfwriter.write(f)
-  f.close()
