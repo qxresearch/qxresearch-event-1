@@ -30,6 +30,11 @@
 #qxresearch enhance the knowledge you've to create something cool 🚀
 ```
 
+### Clone This Repo
+
+```
+git clone https://github.com/qxresearch/qxresearch-event-1
+```
 
 ### Python Application
 
