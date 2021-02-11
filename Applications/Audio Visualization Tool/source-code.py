@@ -36,8 +36,19 @@ fig, ax = plt.subplots(1, figsize=(15, 7))
 # pyaudio class instance
 p = pyaudio.PyAudio()
 
+# get list of availble inputs
+info = p.get_host_api_info_by_index(0)
+numdevices = info.get('deviceCount')
+for i in range(0, numdevices):
+        if (p.get_device_info_by_host_api_device_index(0, i).get('maxInputChannels')) > 0:
+            print ("Input Device id ", i, " - ", p.get_device_info_by_host_api_device_index(0, i).get('name'))
+
+# select input
+audio_input = input("\n\nSelect input by Device id: ")
+
 # stream object to get data from microphone
 stream = p.open(
+    input_device_index=int(audio_input),
     format=FORMAT,
     channels=CHANNELS,
     rate=RATE,
