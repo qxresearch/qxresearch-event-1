@@ -20,7 +20,7 @@
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/qxresearch) 
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
   [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-  [![Say thanks!](https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg?larey&style=flat&logoColor=white&colorA=white)](hhttps://saythanks.io/to/rohitmandal814566%40gmail.com)
+  [![Say thanks!](https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg)](hhttps://saythanks.io/to/rohitmandal814566%40gmail.com)
 
 
 **QX Research** is an online Developer **|** Research club in collaboration with `Mozilla Campus Club`. We focus on the application of `Programming` with `AI` `ML` `Cloud Computing` `Computer Vision` `IOT` etc. Our Research Sessions will take place remotely over [video chat](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA), so you can be anywhere in the world.
