@@ -11,3 +11,5 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 3. Commit your Changes
 4. Push to the Branch
 5. Open a [**Pull Request**](https://github.com/qxresearch/qxresearch-event-1/pulls)
+
+Awesome poject learning pulling request.
