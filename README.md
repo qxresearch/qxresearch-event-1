@@ -47,6 +47,9 @@ git clone https://github.com/qxresearch/qxresearch-event-1
 * [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener)
 * [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks)
 * [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder)
+* [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook)
+* [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm)
+* [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py)
 
 ### Contributing
 
