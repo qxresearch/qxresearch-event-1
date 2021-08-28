@@ -50,6 +50,12 @@ git clone https://github.com/qxresearch/qxresearch-event-1
 * [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook)
 * [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm)
 * [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py)
+* [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar)
+* [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint)
+* [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot)
+* [Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine)
+
+
 
 ### Contributing
 
