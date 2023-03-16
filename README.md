@@ -83,15 +83,11 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: `GitHub id @qxresearch`)
 
 
-<p align="center">
-    <br>
-    <br/>
-    <br />
-    <a href="https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM">Watch On Demand</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
-  </p>
-</p>
+<br>
 
+### Further Readings
+
+- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
+- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
