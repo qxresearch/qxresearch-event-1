@@ -29,12 +29,6 @@
 #qxresearch enhance the knowledge you've to create something cool 🚀
 ```
 
-### Clone This Repository
-
-```
-git clone https://github.com/qxresearch/qxresearch-event-1
-```
-
 ### Python Application
 
 * [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder)
@@ -69,8 +63,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 ### Requirements
 
-* Python >= 3.1
-* Python Libraries: `win10toast` `tkinter` `random` `PyPDF2` `pyaudio` `pyfiglet` `colorama` `pyshorteners` `moviepy` `sounddevice` `scipy`
+* please refer to the `requirements.txt`
 
 ### Video Tutorial
 
