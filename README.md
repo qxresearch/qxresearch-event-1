@@ -51,7 +51,7 @@
 
 <br>
 
-### Applications 
+### Machine Learning Applications 
 
 Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects! 
 Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
