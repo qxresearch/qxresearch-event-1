@@ -38,6 +38,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 
 
 <br>
+<br>
 
 ### Python Application
 
@@ -62,6 +63,8 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 <br>
 
 ### Machine Learning Applications 
+
+`chatGPT`
 
 - ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
 - ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. script writer) 
