@@ -7,7 +7,7 @@
   <h3 align="center">qxresearch-event-1</h3>
 
   <p align="center">
-    10 Python Application | 10 lines of code + Video Explanation 🧭
+    50+ Python Application | 10 lines of code + Video Explanation 🧭
     <br />
     <br>
     <br />
