@@ -29,16 +29,19 @@ Additionally, we understand that sometimes code can be complex, which is why we'
 Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
 
 
+<br>
 
-- Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
-- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
+**[Author]() :**  I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2].
+
 - [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
 
 
+<br>
+
 ### Python Application
 
-* ✒️ [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder)
+* [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder)
 * [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF)
 * [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF)
 * [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification)
@@ -103,7 +106,14 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: `GitHub id @qxresearch`)
 
+<br>
 
 ```
 #qxresearch enhance the knowledge you already have to create something cool 🚀
 ```
+
+<br>
+
+
+[^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
+[^2]: Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
