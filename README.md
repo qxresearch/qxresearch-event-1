@@ -79,7 +79,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 
 ### Setup 
 
-Refer to this [setup video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. I've articulated the steps in text format here : 
+Refer to this [setup video]() to install the dependencies and generate API keys and incorporate with our applications. I've articulated the steps in text format here : 
 
 - Star this repository (top-right corner)
 - Install the dependencies following these steps : 
@@ -87,6 +87,7 @@ Refer to this [setup video]() to install the dependencies and generate OpenAI ke
   - Star this repository (top right corner) 
   - <>Code > Download ZIP > Open cmd/terminal in that location
   - Run this command : `pip install -r requirements.txt`
+  - Replace API keys in `yml` files 
 
 <br>
 
