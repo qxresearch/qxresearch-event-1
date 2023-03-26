@@ -4,7 +4,7 @@
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="240" height="240">
   </a>
 
-  <h3 align="center">qxresearch-event-1</h3>
+  <h3 align="center">qxresearch.py</h3>
 
   <p align="center">
     50+ Python Application | 10 lines of code + Video Explanation 🧭
@@ -23,7 +23,12 @@
   [![Say thanks!](https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg)](https://saythanks.io/to/rohitmandal814566%40gmail.com)
 
 
-**QX Research** is an online Developer **|** Research club in collaboration with `Mozilla Campus Club`. We focus on the application of `Programming` with `AI` `ML` `Cloud Computing` `Computer Vision` `IOT` etc. Our Research Sessions will take place remotely over [video chat](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA), so you can be anywhere in the world.
+Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as `Machine Learning`, `Deep Learning`, `GUI`, `Computer Vision`, and `API development`. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
+
+Additionally, we understand that sometimes code can be complex, which is why we've created video explanations for each project available on our YouTube channel. With these resources at your disposal, you can quickly gain a deep understanding of the code and easily customize it to suit your needs. We hope you find our repository and accompanying videos useful for your development endeavors.
+
+
+Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
 
 ```
 #qxresearch enhance the knowledge you've to create something cool 🚀
