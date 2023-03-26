@@ -45,14 +45,14 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 * [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protech a pdf with custom password 
 * [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
 * [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
-* [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool ! 
-* [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator)
-* [Extrat mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4)
-* [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener)
-* [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks)
-* [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder)
-* [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook)
-* [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : 
+* [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
+* [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator) : Random password generator app with tkinter
+* [Extrat mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Audio extractor from video with 5 lines of code
+* [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener) : URL shortner script 
+* [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting 
+* [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder App with tkinter
+* [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Converts any text into audio book
+* [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : Automated alarms for developers to take a break
 * [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Python script will play a youtube video at sheduled time
 * [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
 * [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
