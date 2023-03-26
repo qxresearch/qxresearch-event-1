@@ -30,11 +30,11 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 
 
 
-Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
+- Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
+- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
 
-```
-#qxresearch enhance the knowledge you already have to create something cool 🚀
-```
 
 ### Python Application
 
@@ -104,11 +104,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: `GitHub id @qxresearch`)
 
 
-<br>
-
-### Further Readings
-
-- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
-- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
-- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+```
+#qxresearch enhance the knowledge you already have to create something cool 🚀
+```
