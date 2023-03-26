@@ -25,18 +25,20 @@
 
 Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as `Machine Learning`, `Deep Learning`, `GUI`, `Computer Vision`, and `API development`. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
 
-Additionally, we understand that sometimes code can be complex, which is why we've created video explanations for each project available on our YouTube channel. With these resources at your disposal, you can quickly gain a deep understanding of the code and easily customize it to suit your needs. We hope you find our repository and accompanying videos useful for your development endeavors.
+Additionally, we understand that sometimes code can be complex, which is why we've created video explanations for each project available on our YouTube channel. With these resources at your disposal, you can quickly gain a deep understanding of the code and easily customize it to suit your needs. We hope you find our repository and accompanying videos useful for your development endeavors. Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects! 
+Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
+
 
 
 Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
 
 ```
-#qxresearch enhance the knowledge you've to create something cool 🚀
+#qxresearch enhance the knowledge you already have to create something cool 🚀
 ```
 
 ### Python Application
 
-* [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder)
+* ✒️ [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder)
 * [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF)
 * [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF)
 * [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification)
@@ -57,9 +59,6 @@ Video Explanation : [YouTube/qxresearch](https://www.youtube.com/qxresearch)
 <br>
 
 ### Machine Learning Applications 
-
-Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects! 
-Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
 
 - ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
 - ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. script writer) 
@@ -95,16 +94,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 4. Push to the Branch
 5. Open a [**Pull Request**](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
-
-<br>
-
-
-### Video Tutorial
-
-|Link|Description|
-|---|---|
-|[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)||
-|[ChatGPT Applications Python](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)||
 
 <br>
 
