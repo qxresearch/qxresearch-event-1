@@ -38,6 +38,7 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 
 
 <br>
+<br>
 
 ### Python Application
 
