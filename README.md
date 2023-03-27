@@ -1,17 +1,9 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="240" height="240">
+    <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/10lines3.gif" alt="Logo">
   </a>
 
-  <h3 align="center">qxresearch.py</h3>
-
-  <p align="center">
-    50+ Python Application | 10 lines of code + Video Explanation 🧭
-    <br />
-    <br>
-    <br />
-  </p>
 </p>
 
  
