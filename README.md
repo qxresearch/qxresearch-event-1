@@ -18,7 +18,7 @@ Additionally, we understand that sometimes code can be complex, which is why we'
 
 <p align="center">
 Author : 
-  <a href="@xiaowuc2">
+  <a href="https://github.com/xiaowuc2">
     @xiaowuc2
   </a>
 
