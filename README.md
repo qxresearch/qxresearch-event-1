@@ -110,6 +110,12 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 <br>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=qxresearch/qxresearch-event-1&type=Timeline)](https://star-history.com/#qxresearch/qxresearch-event-1&Timeline)
+
+<br>
+
 ```
 #qxresearch enhance the knowledge you already have to create something cool 🚀
 ```
