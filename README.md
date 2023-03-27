@@ -91,6 +91,8 @@ Refer to this [setup video]() to install the dependencies and generate API keys 
   - Run this command : `pip install -r requirements.txt`
   - Replace API keys in `yml` files 
 
+\* The setup for different projects might not be the same. Please refer to the individual setup guides given for each project.
+
 <br>
 
 ### Contributing
