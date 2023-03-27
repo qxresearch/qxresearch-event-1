@@ -6,12 +6,6 @@
 
 </p>
 
- 
-  [![Twitter](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Twitter)](https://twitter.com/qxresearch)
-  [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/qxresearch) 
-  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
-  [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-  [![Say thanks!](https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg)](https://saythanks.io/to/rohitmandal814566%40gmail.com)
 
 
 Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
@@ -20,8 +14,15 @@ Additionally, we understand that sometimes code can be complex, which is why we'
 
 
 <br>
+<br>
 
-**[Author](https://github.com/xiaowuc2)** 
+<p align="center">
+Author : 
+  <a href="@xiaowuc2">
+    @xiaowuc2
+  </a>
+
+</p>
 
 I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job TCS, Walmart, Accenture, Cognizant. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
