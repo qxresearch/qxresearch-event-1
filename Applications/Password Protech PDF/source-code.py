@@ -1,9 +1,9 @@
-from PyPDF2 import PdfFileWriter, PdfFileReader
+from PyPDF2 import PdfWriter, PdfReader
 import getpass
-pdfwriter=PdfFileWriter()
-pdf=PdfFileReader("1.pdf")
-for page_num in range(pdf.numPages):
-  pdfwriter.addPage(pdf.getPage(page_num))
+pdfwriter=PdfWriter()
+pdf=PdfReader("1.pdf")
+for page_num in range(len(pdf.pages)):
+  pdfwriter.add_page(pdf.pages[page_num])
 passw=getpass.getpass(prompt='Enter Password: ')
 pdfwriter.encrypt(passw)
 with open('ho.pdf','wb') as f:
