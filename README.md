@@ -24,9 +24,11 @@ Author :
 
 </p>
 
+This repository is only the project version of this course : [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) 
+
 I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job TCS, Walmart, Accenture, Cognizant. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
-- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to crack coding interviews (Recorded / Live)
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
 
 
