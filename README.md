@@ -72,7 +72,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 - 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer) : This tool scraping a given website and summarizes the main context
 - ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
 - 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully
-* 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
+- 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
 
 
 <br>
