@@ -130,3 +130,8 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 [^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
 [^2]: Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
+
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lggxrc0abm2i1s2ok85l" alt="trackgit-views" />
+</a>
