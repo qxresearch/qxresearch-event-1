@@ -107,11 +107,10 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 <br>
 
 
-### Become Official Member
+### Do you want to join @qxresearch and contribute to new projects? 
 
-* Join Mozilla Group [@qxresearch](https://www.youtube.com/watch?v=Cxi3R3A7yMQ)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: `GitHub id @qxresearch`)
+* Fill up this [Form](https://t.me/qxresearch)
+* Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch) 
 
 <br>
 
