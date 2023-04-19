@@ -26,11 +26,12 @@ Author :
 
 This repository is only the project version of this course : [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) 
 
-I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job TCS, Walmart, Accenture, Cognizant. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
+I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
 - [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to crack coding interviews (Recorded / Live)
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
-
+- `Follow` me on [GitHub](https://github.com/xiaowuc2) for research projects like this one
+- Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch)
 
 <br>
 <br>
@@ -117,14 +118,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=qxresearch/qxresearch-event-1&type=Timeline)](https://star-history.com/#qxresearch/qxresearch-event-1&Timeline)
-
-<br>
-
-```
-#qxresearch enhance the knowledge you already have to create something cool 🚀
-```
-
-<br>
 
 
 [^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
