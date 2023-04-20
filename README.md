@@ -26,10 +26,10 @@ Author :
 
 I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
-- [Computational Thinking - Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to prepare for coding rounds & coding interviews (Recorded `$25`/ Live `$100`)
-- [Computational Thinking - Python + Data Science](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Data Science course to detect patterns in data (Recorded `$40`/ Live `$115`)
-- [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos (Recorded `$45`/ Live `$125`)
-- Contact me for intellectual conversation : `rohitmandal814566@gmail.com`
+- [Computational Thinking - Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to prepare for coding rounds & coding interviews 
+- [Computational Thinking - Python + Data Science](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Data Science course to detect patterns in data 
+- [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos 
+- Contact me for course related queries : `rohitmandal814566@gmail.com`
 - Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch)
 
 <br>
