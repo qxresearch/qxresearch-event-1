@@ -26,12 +26,10 @@ Author :
 
 I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
-
-This repository is only the project version of this course : [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) 
-
-- [Computational Thinking : Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to crack coding interviews (Recorded / Live)
-- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
-- `Follow` me on [GitHub](https://github.com/xiaowuc2) for research projects like this one
+- [Computational Thinking - Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to prepare for coding rounds & coding interviews (Recorded `$25`/ Live `$100`)
+- [Computational Thinking - Python + Data Science](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Data Science course to detect patterns in data (Recorded `$40`/ Live `$115`)
+- [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos (Recorded `$45`/ Live `$125`)
+- Contact me for intellectual conversation : `rohitmandal814566@gmail.com`
 - Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch)
 
 <br>
