@@ -109,7 +109,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 ### Do you want to join @qxresearch and contribute to new projects? 
 
-* Fill up this [Form](https://t.me/qxresearch)
+* Fill up this [Form](https://forms.gle/tqR8Pa6j27CHaorT6)
 * Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch) 
 
 <br>
