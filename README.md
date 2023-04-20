@@ -29,6 +29,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 - [Computational Thinking - Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to prepare for coding rounds & coding interviews 
 - [Computational Thinking - Python + Data Science](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Data Science course to detect patterns in data 
 - [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos 
+- [Pricing](https://www.teacheron.com/tutor-profile/76UO?r=76UO) - TeacherOn profile
 - Contact me for course related queries : `rohitmandal814566@gmail.com`
 - Subscribe to support & receive future notificaitons : [youtube/@qxresearch](https://www.youtube.com/qxresearch)
 
