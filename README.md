@@ -118,9 +118,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 <br>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=qxresearch/qxresearch-event-1&type=Timeline)](https://star-history.com/#qxresearch/qxresearch-event-1&Timeline)
 
 
 [^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
