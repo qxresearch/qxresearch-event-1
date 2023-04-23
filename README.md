@@ -31,6 +31,10 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 - [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos 
 - Contact me for course related queries : `rohitmandal814566@gmail.com`
 - Subscribe to support & receive future notificaitons : [youtube/@qxresearch](https://www.youtube.com/qxresearch)
+```
+✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
+❌ If not, point out 'why' and spam the issue section 🚩 
+```
 
 <br>
 <br>
