@@ -17,20 +17,20 @@ Additionally, we understand that sometimes code can be complex, which is why we'
 <br>
 
 <p align="center">
-Author : 
-  <a href="https://github.com/xiaowuc2">
-    @xiaowuc2
+About Us : 
+  <a href="https://www.qxresearch.org">
+    @qxresearch
   </a>
 
 </p>
 
-I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
+qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and Computer Vision. Our team aspires to make discoveries that hold a broad impact, and at the core of our approach lies the sharing of our findings in the field. Our researchers regularly publish in academic journals, release projects as open source on GitHub, and apply these findings in practical applications.
 
-- [Computational Thinking - Python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Python course to prepare for coding rounds & coding interviews 
-- [Computational Thinking - Python + Data Science](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : Data Science course to detect patterns in data 
-- [Computational Thinking - Python + Machine Lernaing](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : ML course to Implement various ML algos 
-- Contact me for course related queries : `rohitmandal814566@gmail.com`
-- Subscribe to support & receive future notificaitons : [youtube/@qxresearch](https://www.youtube.com/qxresearch)
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team!**
+
+- Follow us on [LinkedIn](https://linkedin.com/company/qxresearch) for timely updates regarding new opportunities.
+- Kindly email us your research interests and proposal for consideration.
+  
 ```
 ✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
 ❌ If not, point out 'why' and spam the issue section 🚩 
@@ -117,11 +117,6 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 * Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch) 
 
 <br>
-
-
-
-[^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
-[^2]: Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
 
 
 <a href="https://trackgit.com">
