@@ -42,12 +42,12 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 ### Python Application
 
 * 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
-* 🔑 [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protech a pdf with custom password 
+* 🔑 [Password Protect PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protect a pdf with custom password 
 * 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
 * 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
 * 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
 * 📟 [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator) : Random secured password generator app
-* 🎶 [Extrat mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
+* 🎶 [Extract mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
 * 🔗 [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener) : URL shortner from terminal
 * 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
 * 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
