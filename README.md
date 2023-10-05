@@ -48,7 +48,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 * 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
 * 📟 [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator) : Random secured password generator app
 * 🎶 [Extract mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
-* 🔗 [Link Shortener and Extractor](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener%20and%20Extractor) : URL shortner from terminal
+* 🔗 [Link Shortener and Extractor](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener%20and%20Extractor) : URL shortner and Extractor from terminal
 * 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
 * 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
 * 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Audiobook creator from text file 
