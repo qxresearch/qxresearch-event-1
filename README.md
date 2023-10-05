@@ -48,7 +48,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 * 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
 * 📟 [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator) : Random secured password generator app
 * 🎶 [Extract mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
-* 🔗 [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener) : URL shortner from terminal
+* 🔗 [Link Shortener and Extractor](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener%20and%20Extractor) : URL shortner and Extractor from terminal
 * 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
 * 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
 * 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Audiobook creator from text file 
@@ -74,7 +74,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 - 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's anoher API to convert text from audio
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
 - 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
-- 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer) : This tool scraping a given website and summarizes the main context
+- 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer) : This tool scrapes a given website and summarizes the main context
 - ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
 - 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully
 - 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
