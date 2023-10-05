@@ -13,18 +13,18 @@
   </p>
 </p>
 
-You can create a `Python` program which can be used to shorten a big links and also to extract original link from a shorten link. For shortening the link, we'll use a shortening web service named `tinyurl`. You need to give your link in the terminal and you'll get the shorten link/ original link in the print-screen.
+You can create a `Python` program which can be used to shorten a big link and also to extract original link from a shortened link. For shortening the link, we'll use a shortening web service named `tinyurl`. You need to give your link in the terminal and you'll get the shortened link/ original link in the print-screen.
  ```
 What the program does? 
 
 1. Shortening Links
-- You've to give your big link in the terminal
+- You have to give your big link in the terminal
 - Program will use tinyurl server for shortening the link without using any browser
 - Shortened link will pass by print() function
 
 2. Extracting Original Links
-- You've to give a shorten link in the terminal
-- Program will extract the original URL from the shorten link
+- You have to give a shortened link in the terminal
+- Program will extract the original URL from the shortened link
 - Original link will pass by print() function
 ``` 
 ### Requirements
