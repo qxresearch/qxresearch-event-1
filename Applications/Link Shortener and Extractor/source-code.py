@@ -10,13 +10,12 @@ def link_shortener(link):
     print('\t[+] Shortened Link: ' + short_link)
 
 def link_opener(link):
-
-    shortenedUrl = urlopen(link)
-    reallink = shortenedUrl.geturl()  #getting real link
+    shortened_url = urlopen(link)
+    real_link = shortened_url.geturl()  # getting real link
 
     # Display
     print('\t[+] Shortened Link: ' + link)
-    print('\t[+] Real Link: ' + reallink)
+    print('\t[+] Real Link: ' + real_link)
 
 if __name__ == '__main__' :
 
