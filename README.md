@@ -78,9 +78,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 - ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
 - 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully
 - 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
-
-
-<br>
+- 🛒 [Supermart-Sales-Prediction](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Supermart%20Sales%20Prediction) : Given the Store Location, Area, Size and other params. Predict the overall revenue/Sale generation of the Store.
 
 ### Setup 
 
