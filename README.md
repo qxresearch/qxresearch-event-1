@@ -8,7 +8,7 @@
 
 
 
-Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
+This is Surya's Readme.md file. Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
 
 Additionally, we understand that sometimes code can be complex, which is why we've created video explanations for each project available on our YouTube channel. With these resources at your disposal, you can quickly gain a deep understanding of the code and easily customize it to suit your needs. Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects! Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
 
