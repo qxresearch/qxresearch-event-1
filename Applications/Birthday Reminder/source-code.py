@@ -1,4 +1,17 @@
 import datetime
+
+def calculate_age(birthdate, current_date):
+    birth_year, birth_month, birth_day = map(int, birthdate)
+    current_year, current_month, current_day = map(int, current_date)
+
+    age = current_year - birth_year
+    if (current_month, current_day) < (birth_month, birth_day):
+        age -= 1
+
+    ordinal_suffix = {1: 'st', 2: 'nd', 3: 'rd', 11: 'th', 12: 'th', 13: 'th'}.get(age % 10 if not 10 < age <= 13 else age % 14, 'th')
+    
+    return age, ordinal_suffix
+   
 current_date = datetime.date.today().strftime('%Y-%m-%d')
 current_date_lst = current_date.split('-')
 bday_log = [
