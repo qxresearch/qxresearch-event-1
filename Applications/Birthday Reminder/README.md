@@ -24,7 +24,7 @@ What the program does?
 ### Requirements
 
 * Python
-* Python Libraries: `datetime`
+* Python Libraries: `datetime` `time` `rich`
 
 ### Contributing
 
