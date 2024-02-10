@@ -25,3 +25,4 @@ writer.encrypt(password)
 with open('secured.pdf', 'wb') as f:
     writer.write(f)
     f.close()
+hello buddy
