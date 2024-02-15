@@ -1,7 +1,3 @@
-<!--Please do not remove this part-->
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
 # Image Compressor
 
 ## 🛠️ Description
@@ -22,8 +18,4 @@ These modules are listed in `requirements.txt` and can be installed by running t
 :Simply run the script
 
 
-## 🤖 Author
-<!--Remove the below lines and add yours -->
-If you have any doubts or tips feel free to ping me on discord
-dumb_potato#1734
 
