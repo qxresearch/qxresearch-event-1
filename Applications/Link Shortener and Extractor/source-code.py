@@ -17,15 +17,26 @@ def link_opener(link):
     print('\t[+] Shortened Link: ' + link)
     print('\t[+] Real Link: ' + real_link)
 
+def main():
+    while True:
+        num = input("Enter your choice ...\n" 
+                    "1. Type 1 for shortening link\n"
+                    "2. Type 2 for extrcting real link from a shorten link\n").strip()
+
+
+        if num not in ("1", "2"):
+            print("Invalid choice. Please enter 1, 2")
+            continue
+
+        link = input("Enter the link: ").strip()
+        if not link:
+            print("Link Cannot be empty")
+            continue
+
+        if num == "1":
+           link_shortener(link)
+        else:
+            link_opener(link)
+
 if __name__ == '__main__' :
-
-    num = input("Enter your choice ...\n" 
-                "1. Type 1 for shortening link\n"
-                "2. Type 2 for extrcting real link from a shorten link\n")
-
-    link = input("Enter the link: ")    
-
-    if (num == '1') :
-       link_shortener(link)
-    else :
-        link_opener(link)  
+    main()
