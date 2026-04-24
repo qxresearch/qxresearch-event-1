@@ -12,6 +12,14 @@ pwd_len = IntVar()
 def get_pass():
     # Validate password length is within reasonable bounds for security and performance
     pwd_length = pwd_len.get()
+    
+    # Security fix: validate input is numeric before conversion
+    try:
+        pwd_length = int(pwd_length)
+    except (ValueError, TypeError):
+        passstr.set("")
+        return
+    
     if pwd_length < 8 or pwd_length > 100:
         passstr.set("")
         return

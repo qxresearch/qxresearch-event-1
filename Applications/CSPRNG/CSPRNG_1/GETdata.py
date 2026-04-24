@@ -2,6 +2,7 @@ import os
 import requests
 import random
 import re
+from urllib.parse import quote
 
 api_key = os.getenv('OPENWEATHER_API_KEY')
 
@@ -24,15 +25,24 @@ if not re.match(r'^[a-zA-Z0-9_-]+$', city):
     print('Error: Invalid city name')
     exit(1)
 
-url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric'
-response = requests.get(url, timeout=10)
+# Sanitize city parameter to prevent URL injection
+safe_city = quote(city, safe='')
 
-if response.status_code == 200:
-    data = response.json()
-    # Check if required fields exist before accessing them
-    if 'main' in data and 'temp' in data['main']:
-        print(f'Current temperature in {city}: {data["main"]["temp"]}°C')
+url = f'https://api.openweathermap.org/data/2.5/weather?q={safe_city}&appid={api_key}&units=metric'
+
+try:
+    response = requests.get(url, timeout=10)
+    
+    if response.status_code == 200:
+        data = response.json()
+        # Check if required fields exist before accessing them
+        if 'main' in data and 'temp' in data['main']:
+            print(f'Current temperature in {city}: {data["main"]["temp"]}°C')
+        else:
+            print('Error: Unable to fetch weather data')
     else:
-        print('Error: Unable to fetch weather data')
-else:
-    print(f'Error {response.status_code}: Unable to fetch weather data')
+        print(f'Error {response.status_code}: Unable to fetch weather data')
+except requests.exceptions.RequestException as e:
+    print('Error: Network request failed')
+except Exception as e:
+    print('Error: Unexpected error occurred')
