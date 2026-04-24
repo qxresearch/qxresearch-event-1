@@ -5,13 +5,10 @@ import string
 # Define the length of the random string
 length = 10
 
-# Generate a string of random bytes
-random_bytes = os.urandom(length)
-
-# Convert the random bytes to a string
+# Generate a string of random bytes and use them directly for each iteration
 string_list = []
 for i in range(10):
-    random_string = ''.join([random.choice(string.ascii_letters + string.digits) for n in range(length)])
-    string_list.append(random_string)
-
-print(string_list)
+    # Use secure random bytes instead of character-based selection
+    random_bytes = os.urandom(length)
+    # Convert to hex string representation (secure)
+    random_string = ''.join([format(random_bytes[n
