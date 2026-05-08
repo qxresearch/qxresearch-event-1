@@ -24,7 +24,7 @@ What the program does?
 ### Requirements
 
 * Python
-* Python Libraries: `PyPDF2` `os`
+* Python Libraries: `pypdf` `os`
 
 ### Contributing
 
