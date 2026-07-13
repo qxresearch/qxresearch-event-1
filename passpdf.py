@@ -6,7 +6,7 @@ writer = PdfFileWriter()
 
 
 # Explicitly ask the user what the name of the original file is
-pdf_name = input('Pleast type in the name of the pdf file suffixed with its extention: ')
+pdf_name = input('Please type in the name of the pdf file suffixed with its extension: ')
 
 # Making an instance of the PdfFileReader class with the original file as an argument
 original_file = PdfFileReader(pdf_name)
