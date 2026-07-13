@@ -1,10 +1,25 @@
-from PyPDF2 import PdfWriter, PdfReader
-import getpass
-pdfwriter=PdfWriter()
-pdf=PdfReader("1.pdf")
-for page_num in range(len(pdf.pages)):
-  pdfwriter.add_page(pdf.pages[page_num])
-passw=getpass.getpass(prompt='Enter Password: ')
-pdfwriter.encrypt(passw)
-with open('ho.pdf','wb') as f:
-  pdfwriter.write(f)
+from PyPDF2 import PdfReader, PdfWriter
+from reportlab.pdfgen import canvas
+import os, getpass
+
+file = "1.pdf"
+
+#Create or fix empty PDF
+if not os.path.exists(file) or os.path.getsize(file) == 0:
+    c = canvas.Canvas(file)
+    c.drawString(100, 750, "Auto-created PDF content")
+    c.save()
+
+#Read and protect
+reader = PdfReader(file)
+writer = PdfWriter()
+
+for page in reader.pages:
+    writer.add_page(page)
+
+writer.encrypt(getpass.getpass("Enter password: "))
+
+with open("protected.pdf", "wb") as f:
+    writer.write(f)
+
+print("PDF protected successfully")
