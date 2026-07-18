@@ -49,7 +49,7 @@ For 1 to 1 Personalised training on Python (DSA,AI/ML) Contact : rohitmandal8145
 * 📆 [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
 * ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
 * 💻 [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot) : A tkinter based screenshot app with clickable button
-* 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine) : Wekipedia API integrated tkinter based search engine
+* 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine) : Wikipedia API integrated tkinter based search engine
 
 
 
@@ -60,7 +60,7 @@ For 1 to 1 Personalised training on Python (DSA,AI/ML) Contact : rohitmandal8145
 
 `chatGPT`
 
-- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
+- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate news briefing and blogging from custom senders (mail) 
 - ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. scriptwriter) 
 - 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's another API to convert text from audio
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
