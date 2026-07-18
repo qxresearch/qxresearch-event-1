@@ -1,6 +1,6 @@
 from PyPDF4 import PdfFileMerger
 import os 
-#var = os.getcwd() For extracting from enother folder
+#var = os.getcwd() For extracting from another folder
 merger = PdfFileMerger()
 for items in os.listdir():
   if items.endswith('.pdf'):
