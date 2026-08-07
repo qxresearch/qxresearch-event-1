@@ -1,5 +1,5 @@
 from tkinter import *
-import random
+from random import sample
 import string
 
 root = Tk()
@@ -11,10 +11,7 @@ pwd_len = IntVar()
 # function to generate the password
 def get_pass():
     pass1 = string.ascii_letters + string.digits + string.punctuation
-    password = ""
-
-    for x in range(pwd_len.get()): #loop to generate the user given length for password
-        password = password + random.choice(pass1)
+    password = "".join(sample(pass1, pwd_len.get()))
     passstr.set(password)
 
 #tkinter command to generate the gui    
