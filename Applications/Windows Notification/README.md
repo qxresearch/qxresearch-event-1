@@ -13,13 +13,13 @@
   </p>
 </p>
 
-You can create a custom windows notificatoin and timer notification using `Python` in 10 lines of code. You can create custom name | custom label | custon notification icon | set time limit and you've your custom notificatoin for your app. 🎉
+You can create a custom windows notification and timer notification using `Python` in 10 lines of code. You can create custom name | custom label | custom notification icon | set time limit and you have your custom notificatoin for your app. 🎉
 ```
-What the program does? 
+What does the program do? 
 
-- You give custon heading | sub heading | icon | duration
+- You give custom heading | sub heading | icon | duration
 - You set a notification time or hourly reminder
-- Output displays an actual notification on your computer rather than on terminal screen
+- The Output displays an actual notification on your computer rather than on terminal screen
 ``` 
 ### Requirements
 
