@@ -21,7 +21,7 @@ if __name__ == '__main__' :
 
     num = input("Enter your choice ...\n" 
                 "1. Type 1 for shortening link\n"
-                "2. Type 2 for extrcting real link from a shorten link\n")
+                "2. Type 2 for extracting real link from a shorten link\n")
 
     link = input("Enter the link: ")    
 
